@@ -15,9 +15,9 @@
 
 ```yaml
 name:       Garv Bansal
-role:       Head of Extended Reality @ Baldmann
-education:  B.Tech CSE — VIT Vellore (2023–2027) | CGPA 8.51
-internship: Research & SWE Intern — IIT Delhi (May–Jul 2025)
+role:       Extended Reality
+education:  B.Tech CSE — VIT Vellore (2023–2027)
+internship: Research & SWE Intern — IIT Delhi 
 focus:      XR / VR · Neurotechnology · Blockchain · Full-Stack
 location:   India
 tennis:     National-level competitive player 🎾

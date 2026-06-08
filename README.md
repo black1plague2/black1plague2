@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Garv%20Bansal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=XR%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Blockchain%20%E2%80%A2%20Full-Stack&descSize=17&descAlignY=58" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=650&lines=Head+of+Extended+Reality+%40+Baldmann+%F0%9F%A5%BD;National+Hackathon+Winner+%F0%9F%8F%86;VIT+Vellore+%E2%80%94+CSE+%7C+CGPA+8.51;Building+the+future+of+healthcare+%2B+XR)](https://git.io/typing-svg)
